@@ -1,0 +1,124 @@
+{
+ "generated": "2026-11-24T14:08:31Z",
+ "latest": {
+  "pravo-krasnodar|russia/krasnodar/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 2505,
+    "current": 2484,
+    "gone": 0,
+    "held": 2484,
+    "newest_in_repo": "2026-10-19",
+    "pending": 21,
+    "repo": 2484,
+    "source_in_scope": 2505
+   },
+   "check_id": "ru-pravo-krasnodar-20261124T140419Z",
+   "commits": {
+    "count": 4,
+    "from": "21da342284eb94aa2cd03345887086421d356ec7",
+    "to": "d146bedbdd45f1ad95d20d00332ceae40a9531b4"
+   },
+   "corpus": "russia/krasnodar/acts",
+   "error": null,
+   "finished": "2026-11-24T14:08:30Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region23: 2505 law-type documents listed (every page read); 2484 held here; 21 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "2300202611110005",
+     "2300202611110007",
+     "2300202611110008",
+     "2300202611110010",
+     "2300202611120001",
+     "2300202611120002",
+     "2300202611120003",
+     "2300202611120004",
+     "2300202611120006",
+     "2300202611120007",
+     "2300202611120008",
+     "2300202611120009",
+     "2300202611120010",
+     "2300202611120011",
+     "2300202611120012",
+     "2300202611120013",
+     "2300202611120014",
+     "2300202611120015",
+     "2300202611130001",
+     "2300202611130002",
+     "2300202611130004"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 16,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "2300202611110005",
+     "2300202611110007",
+     "2300202611110008",
+     "2300202611110010",
+     "2300202611120001",
+     "2300202611120002",
+     "2300202611120003",
+     "2300202611120004",
+     "2300202611120006",
+     "2300202611120007",
+     "2300202611120008",
+     "2300202611120009",
+     "2300202611120010",
+     "2300202611120011",
+     "2300202611120012",
+     "2300202611120013",
+     "2300202611120014",
+     "2300202611120015",
+     "2300202611130001",
+     "2300202611130002",
+     "2300202611130004"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2505 law-type documents in block region23; newest published 2026-11-13",
+   "source": "pravo-krasnodar",
+   "started": "2026-11-24T14:04:19Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 3,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 270,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
