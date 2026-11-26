@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Krasnodar Krai only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-25 06:10 UTC, Krasnodar Krai: Official Internet Portal of Legal Information (region23): 16 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-26 05:37 UTC, Krasnodar Krai: Official Internet Portal of Legal Information (region23): 16 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Krasnodar Krai: Official Internet Portal of Legal Information (region23)](http://publication.pravo.gov.ru/documents/block/region23) | `zakony-<year>/` | daily | 2026-11-25 06:10 UTC | no change | watched |
+| [Krasnodar Krai: Official Internet Portal of Legal Information (region23)](http://publication.pravo.gov.ru/documents/block/region23) | `zakony-<year>/` | daily | 2026-11-26 05:37 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 05:36](checks/2026-11.md#ru-pravo-krasnodar-20261126t053625z) | pravo-krasnodar | 16 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 06:09](checks/2026-11.md#ru-pravo-krasnodar-20261125t060914z) | pravo-krasnodar | 16 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-24 14:04](checks/2026-11.md#ru-pravo-krasnodar-20261124t140419z) | pravo-krasnodar | 16 | 21 | 0 | 0 | 0 (0) | changes found | [4](https://github.com/lexifina/russia-krasnodar-law/compare/21da342284eb...d146bedbdd45) |
 

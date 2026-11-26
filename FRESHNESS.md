@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Krasnodar Krai: Official Internet Portal of Legal Information (region23) · `russia/krasnodar/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 06:10 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 05:37 UTC**.
 - Acts held here: 2 505; current at the source: 2 505; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
