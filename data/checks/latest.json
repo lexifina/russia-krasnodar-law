@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:09:44Z",
+ "generated": "2026-11-28T06:24:03Z",
  "latest": {
   "pravo-krasnodar|russia/krasnodar/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 2505,
     "source_in_scope": 2505
    },
-   "check_id": "ru-pravo-krasnodar-20261127T053100Z",
+   "check_id": "ru-pravo-krasnodar-20261128T053953Z",
    "commits": null,
    "corpus": "russia/krasnodar/acts",
    "error": null,
-   "finished": "2026-11-27T05:31:57Z",
+   "finished": "2026-11-28T05:40:46Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region23: 2505 law-type documents listed (every page read); 2505 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "2505 law-type documents in block region23; newest published 2026-11-13",
    "source": "pravo-krasnodar",
-   "started": "2026-11-27T05:31:00Z",
+   "started": "2026-11-28T05:39:53Z",
    "unexplained": 0,
    "update": {
     "parts": []
